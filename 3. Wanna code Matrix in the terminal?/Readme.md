@@ -1,4 +1,4 @@
-```
+```bash
 ## Install cmatrix to your system:
 # MacOS:
 brew install cmatrix
