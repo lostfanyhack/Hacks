@@ -1,10 +1,8 @@
-# Do you like steam locomotives?
-
-MacOS: `brew install sl`
-Linux: `sudo apt install sl`
-
 ```bash
+# Do you like steam locomotives?
+# MacOS: `brew install sl`
+# Linux: `sudo apt install sl`
 sl
-```
 
-Enjoy!
+# Enjoy!
+```
