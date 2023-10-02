@@ -8,7 +8,7 @@ brew install cowsay
 sudo apt install cowsay
 
 ## And run it:
-cowsay Hey, guys! I\'m not mooing
+cowsay Hey, guys\! I\'m not mooing
     
 # Enjoy!")
 ```
